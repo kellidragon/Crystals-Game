@@ -1,5 +1,7 @@
 # Crystals-Game
 
+https://kellidragon.github.io/Crystals-Game/
+
 How to Play the Game
     1. At the top of the screen a number will be displayed at random - you must try and reach that number by clicking the crystals.
     2. Each crystal is assigned a secret number - clicking one will add its value to the "Total Score" section.
